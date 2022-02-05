@@ -27,28 +27,213 @@ This course was a half-semester course that was taught in the second half of the
 Calendar
 --------
 
-| Class # | Topic | key dates |
-| --- | --- | --- |
-| Class 1 | Introduction and Key Technological Trends Affecting Financial Services | &nbsp; |
-| Class 2 | Artificial Intelligence, Machine Learning, and Deep Learning | &nbsp; |
-| Class 3 | Artificial Intelligence in Finance | Deadline to form groups for group research paper |
-| Class 4 | Open APIs & Marketing Channels | &nbsp; |
-| Class 5 | Blockchain Technology & Cryptocurrency | &nbsp; |
-| Class 6 | Payments | &nbsp; |
-| Class 7 | Credit & Lending | Individual business write-ups due  |
-| Class 8 | Challenger Banks | &nbsp; |
-| Class 9 | Trading & Capital Markets | &nbsp; |
-| Class 10 | Insurance | &nbsp; |
-| Class 11 | Coronavirus Crisis & Finance | &nbsp; |
-| Class 12 | Conclusion  | Group research paper due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Class #
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Key Technological Trends Affecting Financial Services
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 2
+{{< tdclose >}}
+{{< tdopen >}}
+Artificial Intelligence, Machine Learning, and Deep Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 3
+{{< tdclose >}}
+{{< tdopen >}}
+Artificial Intelligence in Finance
+{{< tdclose >}}
+{{< tdopen >}}
+Deadline to form groups for group research paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 4
+{{< tdclose >}}
+{{< tdopen >}}
+Open APIs & Marketing Channels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 5
+{{< tdclose >}}
+{{< tdopen >}}
+Blockchain Technology & Cryptocurrency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 6
+{{< tdclose >}}
+{{< tdopen >}}
+Payments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 7
+{{< tdclose >}}
+{{< tdopen >}}
+Credit & Lending
+{{< tdclose >}}
+{{< tdopen >}}
+Individual business write-ups due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 8
+{{< tdclose >}}
+{{< tdopen >}}
+Challenger Banks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 9
+{{< tdclose >}}
+{{< tdopen >}}
+Trading & Capital Markets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 10
+{{< tdclose >}}
+{{< tdopen >}}
+Insurance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 11
+{{< tdclose >}}
+{{< tdopen >}}
+Coronavirus Crisis & Finance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class 12
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion 
+{{< tdclose >}}
+{{< tdopen >}}
+Group research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
  Requirements
 -------------
 
-| Activity | Percentage |
-| --- | --- |
-| Group Research Paper | 40% |
-| Individual Business Write-Up Assignment | 30% |
-| Class Participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activity
+{{< thclose >}}
+{{< thopen >}}
+Percentage
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Business Write-Up Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 See the [Assignments]({{< baseurl >}}/pages/assignments) section for details about each requirement.
