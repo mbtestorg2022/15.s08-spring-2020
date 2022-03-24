@@ -22,7 +22,7 @@ Readings
 
 '[Get to Know Your Marketplace Lenders](https://www.americanbanker.com/slideshow/get-to-know-your-marketplace-lenders)' _American Banker (_accessed March 25, 2020)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)['Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)](https://www.experian.com/assets/consumer-information/reports/Experian_Aite_AltDataReport_Final_120418.pdf?elqTrackId=7714eff9f5204e7ca8517e8966438157&elqaid=3910&elqat=2)' Experian (December 4, 2018)
+['Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)](https://www.experian.com/assets/consumer-information/reports/Experian_Aite_AltDataReport_Final_120418.pdf?elqTrackId=7714eff9f5204e7ca8517e8966438157&elqaid=3910&elqat=2)' Experian (December 4, 2018)
 
 ### Optional Readings
 

@@ -9,7 +9,7 @@ uid: 58b53ba3-354b-c393-e707-10965ee04c93
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 Lecture Slides: The Coronavirus Crisis and Finance (PDF]({{< baseurl >}}/resources/mit15-s08s20_class11))
+[Class 11 Lecture Slides: The Coronavirus Crisis and Finance (PDF]({{< baseurl >}}/resources/mit15-s08s20_class11))
 
 Readings
 --------

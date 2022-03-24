@@ -9,7 +9,7 @@ uid: ce6ffa51-c77a-d7f6-6d44-cb2255794946
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 9 Lecture Slides: Trading and Capital Markets (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class9)
+[Class 9 Lecture Slides: Trading and Capital Markets (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class9)
 
 Readings
 --------

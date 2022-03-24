@@ -9,7 +9,7 @@ uid: 25177263-aec8-b8ce-4bb8-d9580215f10d
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 8 Lecture Slides: Challenger Banks (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15-s08s20_class8)
+[Class 8 Lecture Slides: Challenger Banks (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15-s08s20_class8)
 
 Readings
 --------

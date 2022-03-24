@@ -9,7 +9,7 @@ uid: 5fc888a5-8aca-c5ba-e72f-e1b23d480b16
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 10 Lecture Slides: Insurance (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class10)
+[Class 10 Lecture Slides: Insurance (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class10)
 
 Readings
 --------
