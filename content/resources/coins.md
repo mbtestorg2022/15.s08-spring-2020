@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: cbc918dc-4a0a-57f2-0951-a5f222bcc53d
 resourcetype: Image
 title: coins.jpg
 uid: e065cb49-4fe6-1c76-b777-a811ea20b3eb
